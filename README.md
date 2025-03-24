@@ -110,6 +110,9 @@ This analysis answers key business questions in SQL:
 4. **Sales By Payment Method**
 5. **Sales By Category**
 
+![Sales Analysis By Countries Dashboard](https://github.com/user-attachments/assets/8958777b-35e1-40b1-b408-397189c35759)
+
+
 ---
 ## Conclusion
 This analysis **helps businesses make data-driven decisions** by identifying:
